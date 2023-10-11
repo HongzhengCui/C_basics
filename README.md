@@ -1,4 +1,4 @@
-# C_basics (Pi Palindrome Detector and Lee Algorithm Maze Solver)
+# C_basics
 
 This repository contains two C programs: one for detecting palindromes within the digits of π (Pi), and another for solving mazes using the Lee Algorithm.
 
